@@ -29,6 +29,22 @@
         "funcionarios",
         "departamentos"
       ]
+    },
+    {
+      "id": "u1776648975197",
+      "login": "admin123",
+      "senha": "123",
+      "nome": "Admin 123",
+      "perfil": "admin",
+      "perms": [
+        "dashboard",
+        "atestados",
+        "documentos",
+        "funcionarios",
+        "departamentos",
+        "usuarios",
+        "config"
+      ]
     }
   ],
   "atestados": [
