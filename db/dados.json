@@ -159,6 +159,14 @@
       "departamento": "Gestão",
       "matricula": "1",
       "cpf": "11111162894"
+    },
+    {
+      "id": 5,
+      "nome": "teste1",
+      "departamento": "Gestão",
+      "matricula": "1",
+      "cpf": "ENC:70474e655f6b6650201b08546a6c",
+      "rg": "ENC:71475179556e7a4d26101d40"
     }
   ],
   "departamentos": [
@@ -178,7 +186,7 @@
   "config": {},
   "nid": {
     "dep": 4,
-    "func": 5,
+    "func": 6,
     "at": 5
   }
 }
