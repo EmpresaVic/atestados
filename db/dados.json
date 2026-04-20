@@ -45,6 +45,16 @@
         "usuarios",
         "config"
       ]
+    },
+    {
+      "id": "u1776649021273",
+      "login": "usuario",
+      "senha": "123",
+      "nome": "usuario 123",
+      "perfil": "operador",
+      "perms": [
+        "dashboard"
+      ]
     }
   ],
   "atestados": [
