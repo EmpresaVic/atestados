@@ -153,5 +153,191 @@
     "dep": 4,
     "func": 4,
     "at": 5
-  }
+  },
+  "empresas": [
+    {
+      "id": "moj41khm5pm2",
+      "nome": "Empresa Padrão",
+      "end": ""
+    }
+  ],
+  "usuarios": [
+    {
+      "id": "superadmin001",
+      "login": "super",
+      "senha": "-ro9hyh",
+      "nome": "Super Administrador",
+      "perfil": "superadmin",
+      "empresas": [],
+      "perms": [
+        "dashboard",
+        "atestados",
+        "documentos",
+        "funcionarios",
+        "departamentos",
+        "usuarios",
+        "empresas",
+        "config"
+      ]
+    },
+    {
+      "id": "admin001",
+      "login": "admin",
+      "senha": "admin123",
+      "nome": "Administrador",
+      "perfil": "admin",
+      "perms": [
+        "dashboard",
+        "atestados",
+        "documentos",
+        "funcionarios",
+        "departamentos",
+        "usuarios",
+        "config"
+      ],
+      "empresas": [
+        "moj41khm5pm2"
+      ]
+    },
+    {
+      "id": "ger001",
+      "login": "gerente",
+      "senha": "1234",
+      "nome": "Gerente",
+      "perfil": "gerente",
+      "perms": [
+        "dashboard",
+        "atestados",
+        "documentos",
+        "funcionarios",
+        "departamentos"
+      ],
+      "empresas": [
+        "moj41khm5pm2"
+      ]
+    }
+  ],
+  "emp_moj41khm5pm2_departamentos": [
+    {
+      "id": 1,
+      "nome": "Cozinha"
+    },
+    {
+      "id": 2,
+      "nome": "Atendimento"
+    },
+    {
+      "id": 3,
+      "nome": "Gestão"
+    }
+  ],
+  "emp_moj41khm5pm2_funcionarios": [
+    {
+      "id": 1,
+      "nome": "João da Silva",
+      "setor": "Cozinha",
+      "dataNasc": "1990-05-15",
+      "dataAdmissao": "2022-03-01",
+      "status": "ativo",
+      "cpf": ""
+    },
+    {
+      "id": 2,
+      "nome": "Maria Souza",
+      "setor": "Atendimento",
+      "dataNasc": "1995-08-22",
+      "dataAdmissao": "2023-01-10",
+      "status": "ativo",
+      "cpf": ""
+    },
+    {
+      "id": 3,
+      "nome": "Letícia Lopes",
+      "setor": "Gestão",
+      "dataNasc": "1988-11-30",
+      "dataAdmissao": "2021-06-15",
+      "status": "ativo",
+      "cpf": ""
+    }
+  ],
+  "emp_moj41khm5pm2_atestados": [
+    {
+      "id": 1,
+      "funcionario": "João da Silva",
+      "departamento": "Cozinha",
+      "tipo": "atestado",
+      "atestado": "CID R52 – 1 dia de afastamento",
+      "cid": "R52",
+      "declaracao": "",
+      "dataDoc": "2026-04-02",
+      "dataEnt": "2026-04-03",
+      "obs": "",
+      "fileData": "",
+      "fileName": "",
+      "fileType": "",
+      "termoData": "",
+      "termoName": "",
+      "termoType": ""
+    },
+    {
+      "id": 2,
+      "funcionario": "Maria Souza",
+      "departamento": "Atendimento",
+      "tipo": "declaracao",
+      "atestado": "",
+      "cid": "",
+      "declaracao": "Período de 13:00h às 15:00h",
+      "dataDoc": "2026-04-05",
+      "dataEnt": "2026-04-05",
+      "obs": "",
+      "fileData": "",
+      "fileName": "",
+      "fileType": "",
+      "termoData": "",
+      "termoName": "",
+      "termoType": ""
+    },
+    {
+      "id": 3,
+      "funcionario": "Letícia Lopes",
+      "departamento": "Gestão",
+      "tipo": "atestado",
+      "atestado": "CID J00 – Resfriado comum",
+      "cid": "J00",
+      "declaracao": "",
+      "dataDoc": "2026-04-10",
+      "dataEnt": "2026-04-11",
+      "obs": "",
+      "fileData": "",
+      "fileName": "",
+      "fileType": "",
+      "termoData": "",
+      "termoName": "",
+      "termoType": ""
+    },
+    {
+      "id": 4,
+      "funcionario": "Letícia Lopes",
+      "departamento": "Gestão",
+      "tipo": "ambos",
+      "atestado": "CID R52 – 1 dia",
+      "cid": "R52",
+      "declaracao": "Período de 08:00h às 10:00h",
+      "dataDoc": "2026-03-15",
+      "dataEnt": "2026-03-16",
+      "obs": "",
+      "fileData": "",
+      "fileName": "",
+      "fileType": "",
+      "termoData": "",
+      "termoName": "",
+      "termoType": ""
+    }
+  ],
+  "emp_moj41khm5pm2_nid": {
+    "dep": 4,
+    "func": 4,
+    "at": 5
+  },
+  "emp_moj41khm5pm2_config": {}
 }
