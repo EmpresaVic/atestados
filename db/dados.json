@@ -396,12 +396,22 @@
     "at": 1
   },
   "emp_mokufsuhrzvh_atestados": [],
-  "emp_mokufsuhrzvh_funcionarios": [],
+  "emp_mokufsuhrzvh_funcionarios": [
+    {
+      "id": 1,
+      "nome": "ANDREZA POLIS BISPO DA SILVA",
+      "setor": "Gestão",
+      "status": "ativo",
+      "dataNasc": "",
+      "dataAdmissao": "2025-05-03",
+      "cpf": "ENC:7448486558676750241d08546b60"
+    }
+  ],
   "emp_mokufsuhrzvh_departamentos": [],
   "emp_mokufsuhrzvh_config": {},
   "emp_mokufsuhrzvh_nid": {
     "dep": 1,
-    "func": 1,
+    "func": 2,
     "at": 1
   },
   "emp_mokughq02itb_atestados": [],
