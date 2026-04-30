@@ -262,6 +262,23 @@
       "empresas": [
         "mokufsuhrzvh"
       ]
+    },
+    {
+      "id": "u1777515035508",
+      "login": "victive",
+      "senha": "victive123",
+      "nome": "victive",
+      "perfil": "admin",
+      "perms": [
+        "dashboard",
+        "atestados",
+        "documentos",
+        "funcionarios",
+        "departamentos"
+      ],
+      "empresas": [
+        "mokughq02itb"
+      ]
     }
   ],
   "emp_moj41khm5pm2_departamentos": [
