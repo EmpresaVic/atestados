@@ -230,6 +230,22 @@
       "empresas": [
         "moj41khm5pm2"
       ]
+    },
+    {
+      "id": "u1777514939057",
+      "login": "victria",
+      "senha": "victria123",
+      "nome": "victria",
+      "perfil": "admin",
+      "perms": [
+        "dashboard",
+        "atestados",
+        "documentos",
+        "funcionarios"
+      ],
+      "empresas": [
+        "mokuea36urh2"
+      ]
     }
   ],
   "emp_moj41khm5pm2_departamentos": [
