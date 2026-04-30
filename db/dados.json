@@ -107,15 +107,6 @@
   ],
   "funcionarios": [
     {
-      "id": 1,
-      "nome": "João da Silva",
-      "setor": "Cozinha",
-      "dataNasc": "1990-05-15",
-      "dataAdmissao": "2022-03-01",
-      "status": "ativo",
-      "cpf": ""
-    },
-    {
       "id": 2,
       "nome": "Maria Souza",
       "setor": "Atendimento",
