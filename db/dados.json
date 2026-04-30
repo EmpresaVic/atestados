@@ -246,6 +246,22 @@
       "empresas": [
         "mokuea36urh2"
       ]
+    },
+    {
+      "id": "u1777514970505",
+      "login": "victrus",
+      "senha": "victrus123",
+      "nome": "victrus",
+      "perfil": "admin",
+      "perms": [
+        "dashboard",
+        "atestados",
+        "documentos",
+        "funcionarios"
+      ],
+      "empresas": [
+        "mokufsuhrzvh"
+      ]
     }
   ],
   "emp_moj41khm5pm2_departamentos": [
