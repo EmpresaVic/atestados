@@ -164,6 +164,11 @@
       "id": "mokuea36urh2",
       "nome": "Victria Comercio de Alimentos Ltda",
       "end": "Av dos Autonomistas.1400 - Loja FF02"
+    },
+    {
+      "id": "mokufsuhrzvh",
+      "nome": "Victrus Comercio de Alimentos Ltda",
+      "end": "Rua Tenente Avelar Rodrigues, 81 - Loja 280"
     }
   ],
   "usuarios": [
@@ -350,6 +355,15 @@
   "emp_mokuea36urh2_departamentos": [],
   "emp_mokuea36urh2_config": {},
   "emp_mokuea36urh2_nid": {
+    "dep": 1,
+    "func": 1,
+    "at": 1
+  },
+  "emp_mokufsuhrzvh_atestados": [],
+  "emp_mokufsuhrzvh_funcionarios": [],
+  "emp_mokufsuhrzvh_departamentos": [],
+  "emp_mokufsuhrzvh_config": {},
+  "emp_mokufsuhrzvh_nid": {
     "dep": 1,
     "func": 1,
     "at": 1
