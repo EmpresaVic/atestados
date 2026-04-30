@@ -159,6 +159,11 @@
       "id": "moj41khm5pm2",
       "nome": "Empresa Padrão",
       "end": ""
+    },
+    {
+      "id": "mokuea36urh2",
+      "nome": "Victria Comercio de Alimentos Ltda",
+      "end": "Av dos Autonomistas.1400 - Loja FF02"
     }
   ],
   "usuarios": [
@@ -339,5 +344,14 @@
     "func": 4,
     "at": 5
   },
-  "emp_moj41khm5pm2_config": {}
+  "emp_moj41khm5pm2_config": {},
+  "emp_mokuea36urh2_atestados": [],
+  "emp_mokuea36urh2_funcionarios": [],
+  "emp_mokuea36urh2_departamentos": [],
+  "emp_mokuea36urh2_config": {},
+  "emp_mokuea36urh2_nid": {
+    "dep": 1,
+    "func": 1,
+    "at": 1
+  }
 }
