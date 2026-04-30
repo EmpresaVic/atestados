@@ -114,15 +114,6 @@
       "dataAdmissao": "2023-01-10",
       "status": "ativo",
       "cpf": ""
-    },
-    {
-      "id": 3,
-      "nome": "Letícia Lopes",
-      "setor": "Gestão",
-      "dataNasc": "1988-11-30",
-      "dataAdmissao": "2021-06-15",
-      "status": "ativo",
-      "cpf": ""
     }
   ],
   "departamentos": [
