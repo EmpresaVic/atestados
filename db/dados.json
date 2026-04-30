@@ -169,6 +169,11 @@
       "id": "mokufsuhrzvh",
       "nome": "Victrus Comercio de Alimentos Ltda",
       "end": "Rua Tenente Avelar Rodrigues, 81 - Loja 280"
+    },
+    {
+      "id": "mokughq02itb",
+      "nome": "Victive Comercio de Alimentos Ltda",
+      "end": "Av dos Autonomistas,1400 - Loja FF19"
     }
   ],
   "usuarios": [
@@ -364,6 +369,15 @@
   "emp_mokufsuhrzvh_departamentos": [],
   "emp_mokufsuhrzvh_config": {},
   "emp_mokufsuhrzvh_nid": {
+    "dep": 1,
+    "func": 1,
+    "at": 1
+  },
+  "emp_mokughq02itb_atestados": [],
+  "emp_mokughq02itb_funcionarios": [],
+  "emp_mokughq02itb_departamentos": [],
+  "emp_mokughq02itb_config": {},
+  "emp_mokughq02itb_nid": {
     "dep": 1,
     "func": 1,
     "at": 1
